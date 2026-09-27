@@ -225,7 +225,3 @@ This project helped me practice:
 **Fidan Meherremli**
 
 C# Student | Junior Developer in Progress
-
-GitHub:
-
-https://github.com/fidanmaharramli
